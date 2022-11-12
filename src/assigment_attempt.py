@@ -1,11 +1,11 @@
 class Void:
     pass
 
-class General(object):
-    def assigment_attempt(self, target):
-        if issubclass(target, self):
-            return target
-        return Void()
-
 class Any(General):
-    pass
+
+    @classmethod
+    def assignment_attempt(cls, target, source):
+        if isinstance(target, cls) and isinstance(source, cls):
+            target.value = source.value
+            return target
+        return Void
