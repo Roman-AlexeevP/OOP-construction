@@ -127,12 +127,12 @@
 ## Макеты UI
 
 - раздел задач
-<img src="images/tasks_window.png" height="300" width="350" alt="tasks_window">
+<img src="images/tasks_window.png" height="500" width="600" alt="tasks_window">
 - раздел планирования
-<img src="images/planing_window.png" height="300" width="350" alt="planing_window">
+<img src="images/planing_window.png" height="500" width="600" alt="planing_window">
 - раздел фокусировки
-<img src="images/focus_window.png" height="300" width="350" alt="focus_window">
+<img src="images/focus_window.png" height="500" width="600" alt="focus_window">
 - раздел статистики
-<img src="images/stats_window.png" height="300" width="350" alt="stats_window">
+<img src="images/stats_window.png" height="500" width="600" alt="stats_window">
 - раздел персонажа
-<img src="images/hero_window.png" height="300" width="350" alt="hero_window">
+<img src="images/hero_window.png" height="500" width="600" alt="hero_window">
