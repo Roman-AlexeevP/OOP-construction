@@ -127,12 +127,12 @@
 ## Макеты UI
 
 - раздел задач
-<img src="GameOfTODO/images/tasks_window.png" height="300" width="350" alt="tasks_window">
+<img src="images/tasks_window.png" height="300" width="350" alt="tasks_window">
 - раздел планирования
-<img src="GameOfTODO/images/tasks_planing.png" height="300" width="350" alt="tasks_planing">
+<img src="images/tasks_planing.png" height="300" width="350" alt="tasks_planing">
 - раздел фокусировки
-<img src="GameOfTODO/images/tasks_focus.png" height="300" width="350" alt="tasks_focus">
+<img src="images/tasks_focus.png" height="300" width="350" alt="tasks_focus">
 - раздел статистики
-<img src="GameOfTODO/images/tasks_stats.png" height="300" width="350" alt="tasks_stats">
+<img src="images/tasks_stats.png" height="300" width="350" alt="tasks_stats">
 - раздел персонажа
-<img src="GameOfTODO/images/tasks_hero.png" height="300" width="350" alt="tasks_hero">
+<img src="images/tasks_hero.png" height="300" width="350" alt="tasks_hero">
