@@ -129,10 +129,10 @@
 - раздел задач
 <img src="images/tasks_window.png" height="300" width="350" alt="tasks_window">
 - раздел планирования
-<img src="images/tasks_planing.png" height="300" width="350" alt="tasks_planing">
+<img src="images/planing_window.png" height="300" width="350" alt="planing_window">
 - раздел фокусировки
-<img src="images/tasks_focus.png" height="300" width="350" alt="tasks_focus">
+<img src="images/focus_window.png" height="300" width="350" alt="focus_window">
 - раздел статистики
-<img src="images/tasks_stats.png" height="300" width="350" alt="tasks_stats">
+<img src="images/stats_window.png" height="300" width="350" alt="stats_window">
 - раздел персонажа
-<img src="images/tasks_hero.png" height="300" width="350" alt="tasks_hero">
+<img src="images/hero_window.png" height="300" width="350" alt="hero_window">
